@@ -1,6 +1,6 @@
 package interfaces;
 
-public interface InterfacePorducto {
+public interface InterfaceProducto {
 
     int getPrecio();
     double getPrecioVenta();
